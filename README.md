@@ -7,7 +7,7 @@ Este é um projeto de um sistema de compra de ingressos, desenvolvido para aprim
 - HTML
 - CSS
 - JavaScript
-- Frameworks ou bibliotecas utilizadas (se houver, ex: React, Next.js, etc.)
+
 
 ## Funcionalidades
 
